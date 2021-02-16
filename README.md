@@ -36,13 +36,14 @@ More about the implementation in the Wiki soon
 [Click here to get started with Blazor](https://github.com/aksoftware98/multilanguages/Blazor-configuration.md)
 
 # Getting Started with UWP
-[Click here to get started with Blazor](https://github.com/aksoftware98/multilanguages/Blazor-configuration.md)
+[Click here to get started with UWP](https://github.com/aksoftware98/multilanguages/UWP-configuration.md)
+
 Thanks for the awesome contributors 
 <a href="https://github.com/aksoftware98/multilanguages/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=aksoftware98/multilanguages" />
 </a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA5Nzg5NjQsLTE2NTkwNDAxOTksLT
+eyJoaXN0b3J5IjpbLTE3ODQyMjY5MTIsLTE2NTkwNDAxOTksLT
 E2NTExOTI2ODhdfQ==
 -->
