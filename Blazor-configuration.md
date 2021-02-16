@@ -21,8 +21,6 @@ Install-Package AKSoftware.Localization.MultiLanguages.Blazor
 ``` CLI
 dotnet add package AKSoftware.Localization.MultiLanuages.Blazor
 ```
-
-
 ## Create the Resources Folder
 
 Inside your project create a folder called "Resources"
@@ -140,5 +138,5 @@ Check the sample project here to see how to develop a full Blazor WebAssembly pr
 [Full Blazor WASM Sample](https://github.com/aksoftware98/multilanguages/tree/master/src/BlazorAKLocalization)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxMzQwNzM3LDEwMjA2ODQ5XX0=
+eyJoaXN0b3J5IjpbLTE5NjI5ODM5NjMsMTAyMDY4NDldfQ==
 -->
