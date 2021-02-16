@@ -27,8 +27,9 @@ The AKSoftware.Localization.MultiLanguages package ships with three ways of work
 
 * Embedded resource files
 * External Resources files
-	* Loaded from the UWP app's installation f
+	* Loaded from the UWP app's installation folder ()
+	* Loaded from the UWP app's local folder
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzMTI0Njc4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTcwNTkyNDI4MSw3MzA5OTgxMTZdfQ==
 -->
