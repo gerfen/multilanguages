@@ -27,9 +27,9 @@ The AKSoftware.Localization.MultiLanguages package ships with three ways of work
 
 * Embedded resource files
 * External Resources files
-	* Loaded from the UWP app's installation folder ([Windows.ApplicationModel.Package.Current.InstalledLocation[])
-	* Loaded from the UWP app's local folder (ApplicationData.Current.LocalFolder)
+	* Loaded from the UWP app's installation folder ([Windows.ApplicationModel.Package.Current.InstalledLocation](https://docs.microsoft.com/en-us/uwp/api/windows.applicationmodel.package.installedlocation))
+	* Loaded from the UWP app's local folder ([ApplicationData.Current.LocalFolder]())
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4OTE5NjM5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTc1NDg1NDY0MCw3MzA5OTgxMTZdfQ==
 -->
