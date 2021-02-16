@@ -21,6 +21,10 @@ Install-Package AKSoftware.Localization.MultiLanguages.UWP
 ``` CLI
 dotnet add package AKSoftware.Localization.MultiLanuages.UWP
 ```
+## Setting up resource files
+
+The 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjc4NzQ2Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNDMxODcxMTUsNzMwOTk4MTE2XX0=
 -->
