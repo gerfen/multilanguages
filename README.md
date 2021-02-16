@@ -32,7 +32,10 @@ In the latest version of the library because right it started to support UWP and
 By default there is the ***EmbeddedResourceKeysProvider*** to fetch the files from the resources and you can create your own by inhereting from the interface ***IKeysProvider***
 More about the implementation in the Wiki soon 
 
+# Getting Started with Blazor
 
+
+# Getting Started with UWP
 
 Thanks for the awesome contributors 
 <a href="https://github.com/aksoftware98/multilanguages/graphs/contributors">
@@ -40,5 +43,5 @@ Thanks for the awesome contributors
 </a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDcwMDczMl19
+eyJoaXN0b3J5IjpbLTE2NTExOTI2ODhdfQ==
 -->
