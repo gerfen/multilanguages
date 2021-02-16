@@ -1,7 +1,7 @@
 
 
 
-# Getting Started
+# Getting Started with Blazor
 
 For Nuget Package Manager install the package 
 (Nuget Package Manager Console)
@@ -140,5 +140,5 @@ Check the sample project here to see how to develop a full Blazor WebAssembly pr
 [Full Blazor WASM Sample](https://github.com/aksoftware98/multilanguages/tree/master/src/BlazorAKLocalization)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDY4NDldfQ==
+eyJoaXN0b3J5IjpbNjcxMzQwNzM3LDEwMjA2ODQ5XX0=
 -->
