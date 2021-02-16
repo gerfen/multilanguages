@@ -33,10 +33,10 @@ By default there is the ***EmbeddedResourceKeysProvider*** to fetch the files fr
 More about the implementation in the Wiki soon 
 
 # Getting Started with Blazor
-[Click here to get started with Blazor](https://github.com/aksoftware98/multilanguages/Blazor-configuration.md)
+[Click here to get started with Blazor](Blazor-configuration.md)
 
 # Getting Started with UWP
-[Click here to get started with UWP](https://github.com/aksoftware98/multilanguages/UWP-configuration.md)
+[Click here to get started with UWP](UWP-configuration.md)
 
 Thanks for the awesome contributors 
 <a href="https://github.com/aksoftware98/multilanguages/graphs/contributors">
@@ -44,6 +44,6 @@ Thanks for the awesome contributors
 </a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQyMjY5MTIsLTE2NTkwNDAxOTksLT
+eyJoaXN0b3J5IjpbLTIwMTI4NDc2ODYsLTE2NTkwNDAxOTksLT
 E2NTExOTI2ODhdfQ==
 -->
