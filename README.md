@@ -33,7 +33,7 @@ By default there is the ***EmbeddedResourceKeysProvider*** to fetch the files fr
 More about the implementation in the Wiki soon 
 
 # Getting Started with Blazor
-
+Click here to get started with Blazor
 
 # Getting Started with UWP
 
@@ -43,5 +43,6 @@ Thanks for the awesome contributors
 </a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTExOTI2ODhdfQ==
+eyJoaXN0b3J5IjpbLTEyNzEwMTA4NzYsLTE2NTExOTI2ODhdfQ
+==
 -->
