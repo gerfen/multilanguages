@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
-using Windows.UI.Xaml;
+using Microsoft.UI.Xaml;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace AKSoftware.Localization.MultiLanguages.UWP.Converters

@@ -1,9 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
-
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
-
   <ItemGroup>
     <None Remove="Resources\ar-SA.yml" />
     <None Remove="Resources\bg-BG.yml" />
@@ -16,7 +14,6 @@
     <None Remove="Resources\ja-JP.yml" />
     <None Remove="Resources\ml-IN.yml" />
   </ItemGroup>
-
   <ItemGroup>
     <EmbeddedResource Include="Resources\ar-SA.yml" />
     <EmbeddedResource Include="Resources\bg-BG.yml" />
@@ -29,7 +26,6 @@
     <EmbeddedResource Include="Resources\ja-JP.yml" />
     <EmbeddedResource Include="Resources\ml-IN.yml" />
   </ItemGroup>
-
   <ItemGroup>
     <None Include="Pages\Counter.razor" />
     <None Include="Pages\FetchData.razor" />
@@ -38,17 +34,14 @@
     <None Include="Shared\NavMenu.razor" />
     <None Include="Shared\SurveyPrompt.razor" />
   </ItemGroup>
-
   <ItemGroup>
-    <PackageReference Include="Blazored.LocalStorage" Version="3.0.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="5.0.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="5.0.0" PrivateAssets="all" />
-    <PackageReference Include="System.Net.Http.Json" Version="5.0.0" />
+    <PackageReference Include="Blazored.LocalStorage" Version="4.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.12" PrivateAssets="all" />
+    <PackageReference Include="System.Net.Http.Json" Version="8.0.1" />
   </ItemGroup>
-
   <ItemGroup>
     <ProjectReference Include="..\AKSoftware.Localization.MultiLanguages.Blazor\AKSoftware.Localization.MultiLanguages.Blazor.csproj" />
     <ProjectReference Include="..\AKSoftware.Localization.MultiLanguages\AKSoftware.Localization.MultiLanguages.csproj" />
   </ItemGroup>
-
 </Project>

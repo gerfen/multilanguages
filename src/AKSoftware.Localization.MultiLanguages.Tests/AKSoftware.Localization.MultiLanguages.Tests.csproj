@@ -1,11 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-
+    <TargetFramework>net8.0</TargetFramework>
     <IsPackable>false</IsPackable>
   </PropertyGroup>
-
   <ItemGroup>
     <None Remove="Resources\ar-sa.yml" />
     <None Remove="Resources\bg-BG.yml" />
@@ -18,7 +15,6 @@
     <None Remove="Resources\ja-JP.yml" />
     <None Remove="Resources\ml-IN.yml" />
   </ItemGroup>
-
   <ItemGroup>
     <EmbeddedResource Include="Resources\ar-SA.yml" />
     <EmbeddedResource Include="Resources\bg-BG.yml" />
@@ -31,15 +27,12 @@
     <EmbeddedResource Include="Resources\ja-JP.yml" />
     <EmbeddedResource Include="Resources\ml-IN.yml" />
   </ItemGroup>
-
   <ItemGroup>
     <PackageReference Include="nunit" Version="3.12.0" />
     <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.0-preview-20201123-03" />
   </ItemGroup>
-
   <ItemGroup>
     <ProjectReference Include="..\AKSoftware.Localization.MultiLanguages\AKSoftware.Localization.MultiLanguages.csproj" />
   </ItemGroup>
-
 </Project>

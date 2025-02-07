@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AKSoftware.Localization.MultiLanguages.UWP.Tests (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AKSoftware.Localization.MultiLanguages.UWP.Tests (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

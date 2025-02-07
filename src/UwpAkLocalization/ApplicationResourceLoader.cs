@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Windows.Globalization;
-using Windows.UI.Xaml.Resources;
+using Microsoft.UI.Xaml.Resources;
 using AKSoftware.Localization.MultiLanguages;
 
 namespace UwpAkLocalization

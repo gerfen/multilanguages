@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UwpAkLocalization (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "UwpAkLocalization (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

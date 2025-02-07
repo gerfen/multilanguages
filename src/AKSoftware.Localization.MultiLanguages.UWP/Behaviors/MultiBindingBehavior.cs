@@ -15,9 +15,9 @@
 
 using System;
 using System.Reflection;
-using Windows.UI.Xaml;
-using Windows.UI.Xaml.Data;
-using Windows.UI.Xaml.Markup;
+using Microsoft.UI.Xaml;
+using Microsoft.UI.Xaml.Data;
+using Microsoft.UI.Xaml.Markup;
 using Microsoft.Xaml.Interactivity;
 
 namespace AKSoftware.Localization.MultiLanguages.UWP.Behaviors

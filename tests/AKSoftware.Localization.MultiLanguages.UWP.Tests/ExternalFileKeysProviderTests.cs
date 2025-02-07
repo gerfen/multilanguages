@@ -24,6 +24,7 @@ namespace AKSoftware.Localization.MultiLanguages.UWP.Tests
             //var keysProvider = new ExternalFileKeysProvider(Assembly.GetExecutingAssembly(), "Resources", LocalizationFolderType.InstallationFolder);
             var keysProvider = new ExternalFileKeysProvider(Assembly.GetExecutingAssembly(), "Localization", LocalizationFolderType.LocalFolder);
             _service = new LanguageContainer(CultureInfo.GetCultureInfo("ca-ES"), keysProvider);
+
         }
     }
 }

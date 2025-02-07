@@ -16,7 +16,7 @@ using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using Windows.Foundation.Collections;
-using Windows.UI.Xaml;
+using Microsoft.UI.Xaml;
 
 namespace AKSoftware.Localization.MultiLanguages.UWP.Behaviors
 {
