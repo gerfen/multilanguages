@@ -7,6 +7,12 @@
     <ImplicitUsings>disable</ImplicitUsings>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>WinUI 3 integration components for AKSoftware.Localization.MultiLanguages</Description>
+    <AssemblyVersion>6.0.3</AssemblyVersion>
+    <Version>6.0.3-alpha</Version>
+    <PackageProjectUrl>https://akmultilanguages.azurewebsites.net</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/aksoftware98/multilanguages</RepositoryUrl>
+    <PackageTags>AKSoftware, Languages, Localization, Globalization, WINUI</PackageTags>
+    <FileVersion>6.0.3</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
